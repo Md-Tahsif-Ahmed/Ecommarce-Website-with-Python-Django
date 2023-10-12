@@ -1,0 +1,12 @@
+.gallery-wrap .img-big-wrap img{
+height: 450px;
+width: auto;
+display: inline-block;
+cursor: zoom-in;
+
+}
+/* .galler-wrap .img-small-wrap .item-gallery {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #ddd;
+} */
